@@ -1,6 +1,6 @@
 # FIRST CODE IN C PROGRAMMING
 <br>
-Author - ADARSH KUMAR DUBEY
+Author - ADARSH KUMAR DUBEY<br>
 #include<stdio.h>
 int main()
 {
